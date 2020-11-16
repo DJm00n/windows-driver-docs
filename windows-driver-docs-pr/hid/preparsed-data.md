@@ -19,11 +19,11 @@ ms.localizationpriority: medium
 
 The following [HIDClass support routines](/windows-hardware/drivers/ddi/index) support extracting and setting button and value data:
 
-[**HidP\_GetButtons**](./hdpi-h-macros.md)
+[**HidP\_GetButtons**](/windows-hardware/drivers/ddi/hidpi/hdpi-h-macros#hidp_getbuttons)
 
-[**HidP\_SetButtons**](./hdpi-h-macros.md)
+[**HidP\_SetButtons**](/windows-hardware/drivers/ddi/hidpi/hdpi-h-macros#hidp_setbuttons)
 
-[**HidP\_UnsetButtons**](./hdpi-h-macros.md)
+[**HidP\_UnsetButtons**](/windows-hardware/drivers/ddi/hidpi/hdpi-h-macros#hidp_unsetbuttons)
 
 [**HidP\_GetUsageValue**](/windows-hardware/drivers/ddi/hidpi/nf-hidpi-hidp_getusagevalue)
 
